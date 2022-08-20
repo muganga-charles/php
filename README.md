@@ -4,4 +4,5 @@ The gfg folder contains two files
 These are used to export data from SQL database into csv.
 in the index.php,
 it require specification of the database and also the listing the columns in the database.
-Then 
+Then in the export.php,
+
