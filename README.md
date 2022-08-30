@@ -1,6 +1,6 @@
 # php
 The gfg folder contains two files <br />
--index and export. 
+-index and export.<br />
 These are used to export data from SQL database into csv.
 in the index.php,
 it links to the export.php
